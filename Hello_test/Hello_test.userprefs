@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Eric’s iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello_test/Screens/HomeScreen.cs">
+    <Files>
+      <File FileName="Hello_test/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Hello_test/Screens/Hello_main.cs" Line="1" Column="1" />
+      <File FileName="Hello_test/Screens/HomeScreen.cs" Line="24" Column="24" />
+      <File FileName="Hello_test/Screens/HelloUniverse.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
